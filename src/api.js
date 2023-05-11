@@ -1,6 +1,3 @@
-// tutorial app
-// https://awstip.com/express-server-on-netlify-for-free-step-by-step-guide-e5fbdb47d891
-
 const express = require("express");
 const serverless = require("serverless-http");
 
